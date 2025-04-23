@@ -4,9 +4,7 @@ import java.util.List;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World! I am Edward No. 123!");
-
-        System.out.println("Hello, World! I am Edward No. 17!");
+            System.out.println("Hello, World!");
     }
 List<Integer> numbers = new ArrayList<>();
 for (int i = 1; i <= 30; i++) {
